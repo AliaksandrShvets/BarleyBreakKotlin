@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BarleyBreak</string>
+
+    <!--Activity main-->
+    <string name="activity_main_start_game">START</string>
+    <string name="activity_main_indicator_8">8</string>
+    <string name="activity_main_indicator_15">15</string>
+    <string name="activity_main_indicator_24">24</string>
+
+</resources>
